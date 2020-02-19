@@ -1,0 +1,237 @@
+.BaseTomato {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    height: 500px;
+    width: 500px;
+    background: url('../../../assets/images/base-tomato.png') center center/cover no-repeat;
+}
+
+.BaseThin {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    height: 450px;
+    width: 450px;
+    background: url('../../../assets/images/base-thin.png') center center/cover no-repeat;
+}
+
+.BaseUsual {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    height: 500px;
+    width: 500px;
+    background: url('../../../assets/images/base-usual.png') center center/cover no-repeat;
+}
+
+.Olives {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    height: 400px;
+    width: 400px;
+    background: url('../../../assets/images/Ingredients/olives.png') center center/cover no-repeat;
+    animation: falling 1s ease;
+}
+
+.Meat {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    height: 450px;
+    width: 450px;
+    background: url('../../../assets/images/Ingredients/meat.png') center center/cover no-repeat;
+}
+
+.Mozzarella {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    height: 500px;
+    width: 500px;
+    background: url('../../../assets/images/Ingredients/mozzarella.png') center center/cover no-repeat;
+    animation: falling 1s ease;
+}
+
+.Arugula {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    height: 400px;
+    width: 400px;
+    background: url('../../../assets/images/Ingredients/arugula.png') center center/cover no-repeat;
+    animation: falling 1s ease;
+}
+
+.Bulgarian {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    height: 450px;
+    width: 450px;
+    background: url('../../../assets/images/Ingredients/bulgarian.png') center center/cover no-repeat;
+    animation: falling 1s ease;
+}
+
+.Corn {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    height: 500px;
+    width: 500px;
+    background: url('../../../assets/images/Ingredients/corn.png') center center/cover no-repeat;
+    animation: falling 1s ease;
+}
+
+.Hunting {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    height: 450px;
+    width: 450px;
+    background: url('../../../assets/images/Ingredients/hunting.png') center center/cover no-repeat;
+    animation: falling 1s ease;
+}
+
+.Mushrooms {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    height: 450px;
+    width: 450px;
+    background: url('../../../assets/images/Ingredients/mushrooms.png') center center/cover no-repeat;
+    animation: falling 1s ease;
+}
+
+.Pepperoni {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    height: 400px;
+    width: 400px;
+    background: url('../../../assets/images/Ingredients/pepperoni.png') center center/cover no-repeat;
+    animation: falling 1s ease;
+}
+
+.Pineapple {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    height: 450px;
+    width: 450px;
+    background: url('../../../assets/images/Ingredients/pineapple.png') center center/cover no-repeat;
+    animation: falling 1s ease;
+}
+
+.Prosciutto {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    height: 400px;
+    width: 400px;
+    background: url('../../../assets/images/Ingredients/prosciutto.png') center center/cover no-repeat;
+    animation: falling 1s ease;
+}
+
+.Salami {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    height: 450px;
+    width: 450px;
+    background: url('../../../assets/images/Ingredients/salami.png') center center/cover no-repeat;
+    animation: falling 1s ease;
+}
+
+.Salmon {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    height: 450px;
+    width: 450px;
+    background: url('../../../assets/images/Ingredients/salmon.png') center center/cover no-repeat;
+    animation: falling 1s ease;
+}
+
+.Shrimp {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    height: 450px;
+    width: 450px;
+    background: url('../../../assets/images/Ingredients/shrimp.png') center center/cover no-repeat;
+    animation: falling 1s ease;
+}
+
+
+.Cucumber {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    height: 450px;
+    width: 450px;
+    background: url('../../../assets/images/Ingredients/cucumber.png') center center/cover no-repeat;
+    animation: falling 1s ease;
+}
+
+.Sturgeon {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    height: 400px;
+    width: 400px;
+    background: url('../../../assets/images/Ingredients/sturgeon.png') center center/cover no-repeat;
+    animation: falling 1s ease;
+}
+
+.Tomato {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    height: 400px;
+    width: 400px;
+    background: url('../../../assets/images/Ingredients/tomato.png') center center/cover no-repeat;
+    animation: falling 1s ease;
+}
+
+.Tuna {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    height: 400px;
+    width: 400px;
+    background: url('../../../assets/images/Ingredients/tuna.png') center center/cover no-repeat;
+    animation: falling 1s ease;
+}
+
+@keyframes falling {
+    0% {
+        transform: scale(1.5) translateX(-70%) translateY(-50%);
+    }
+
+    100% {
+        transform: scale(1) translateX(-50%) translateY(-50%);
+    }
+}

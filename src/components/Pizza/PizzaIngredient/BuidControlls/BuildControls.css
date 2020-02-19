@@ -1,0 +1,22 @@
+.BuildControls {
+    width: 23%;
+    background-color: #e2e2e2;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    right: 0;
+    transition: all .3s ease-in-out;
+}
+
+.OrderButton {
+    outline: none;
+    border: none;
+    padding: 10px;
+    letter-spacing: 2px;
+    font-family: inherit;
+    font-weight: bold;
+    cursor: pointer;
+    background: linear-gradient(90deg, green, white, red);
+}

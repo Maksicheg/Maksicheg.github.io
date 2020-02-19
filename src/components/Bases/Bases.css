@@ -1,0 +1,81 @@
+.bases {
+    font-family: 'Sigmar One', cursive;
+    font-weight: bold;
+    font-size: 32px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    animation: appearance 1s ease-in;
+}
+
+.bases_container {
+    width: 100%;
+    height: 500px;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.bases_container p {
+    margin: 20px 0;
+}
+
+.base {
+    transition: 1s;
+    cursor: pointer;
+}
+
+.base:hover {
+    transform: scale(1.1);
+}
+
+.base:hover .base_tomato,
+.base:hover .base_thin,
+.base:hover .base_usual {
+    transform: rotate(25deg);
+}
+
+
+.base_tomato {
+    height: 300px;
+    width: 300px;
+    background: url('../../assets/images/base-tomato.png') center center/cover no-repeat;
+    transition: transform 1s ease;
+}
+
+.base_thin {
+    height: 300px;
+    width: 300px;
+    background: url('../../assets/images/base-thin.png') center center/cover no-repeat;
+    transition: transform 1s ease;
+}
+
+.base_usual {
+    height: 300px;
+    width: 300px;
+    background: url('../../assets/images/base-usual.png') center center/cover no-repeat;
+    transition: transform 1s ease;
+}
+
+@keyframes scaling {
+    0% {
+        transform: scale(1);
+    }
+
+    100% {
+        transform: scale(1.3);
+    }
+}
+
+@keyframes appearance {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}

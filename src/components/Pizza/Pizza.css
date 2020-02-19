@@ -1,0 +1,19 @@
+.Pizza {
+    width: 50%;
+    margin: auto;
+    height: 250px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.EmptyIngredients {
+    font-size: 1.2rem;
+    position: relative;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    text-transform: uppercase;
+    background-color: #fff;
+    padding: 12px 4px;
+}
